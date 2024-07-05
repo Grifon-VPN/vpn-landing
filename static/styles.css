@@ -1,0 +1,161 @@
+body {
+    background: #05060E;
+}
+
+#logo h1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 101.205px;
+    line-height: 120px;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 43.3333px;
+    line-height: 51px;
+    color: #FFFFFF;
+}
+
+#logo .btn {
+    background: #FFFFFF;
+    border-radius: 20px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #05060E;
+}
+
+#info h5 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+#info p {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFDFD;
+}
+
+#info .vl {
+    width: 40px;
+    height: 0px;
+    border: 1px solid #AEAEAE;
+    transform: rotate(90deg);
+}
+
+#plans .card .sqare {
+background: #FFFFFF;
+border-radius: 7.65343px;
+}
+
+#plans .card {
+    border: 1.98502px solid #D3D3D3;
+    border-radius: 19.8502px;
+    background: #05060E;
+}
+
+#plans .card-title {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27.7903px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+#plans .card-text {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.7183px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+#plans .card .btn {
+    background: #FFFFFF;
+    border-radius: 19.8502px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19.8502px;
+    line-height: 24px;
+    color: #05060E;
+}
+
+#advantages li {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+#free span {
+    border: 1.98502px solid #D3D3D3;
+    border-radius: 19.8502px;
+    background: #05060E;
+}
+
+#free button {
+    background: #FFFFFF;
+    border-radius: 19.8502px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29.7753px;
+    line-height: 35px;
+    color: #05060E;
+}
+
+footer {
+    background: #050505;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.footer-left {
+    flex-grow: 1
+}
+
+.footer-title {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.footer-text {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+#download h2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
