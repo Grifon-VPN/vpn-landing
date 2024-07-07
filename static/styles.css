@@ -20,7 +20,7 @@ h2 {
     color: #FFFFFF;
 }
 
-#logo button {
+#logo .btn {
     background: #FFFFFF;
     border-radius: 20px;
 
@@ -54,6 +54,13 @@ h2 {
     width: 40px;
     height: 0px;
     border: 1px solid #AEAEAE;
+    transform: rotate(90deg);
+}
+
+#info .vl-1 {
+    width: 40px;
+    height: 0px;
+    border: 1px solid #050505;
     transform: rotate(90deg);
 }
 
@@ -112,7 +119,7 @@ border-radius: 7.65343px;
     background: #05060E;
 }
 
-#free button {
+#free .btn {
     background: #FFFFFF;
     border-radius: 19.8502px;
     font-family: 'Rubik';
@@ -158,4 +165,13 @@ footer {
     font-size: 30px;
     line-height: 36px;
     color: #FFFFFF;
+}
+
+@media (max-width: 991px) {
+    #info .vl {
+        width: 40px;
+        height: 0px;
+        border: 1px solid #050505;
+        transform: rotate(90deg);
+    }
 }
